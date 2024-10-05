@@ -8,7 +8,7 @@ import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 
 
-const API_URL = "https://app-vercel-m5wv.vercel.app/api/user";
+const API_URL = "https://node-backend-indol.vercel.app/api/users";
 
 function App() {
   const [users, setUsers] = useState([]);
